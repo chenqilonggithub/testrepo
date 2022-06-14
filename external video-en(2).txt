@@ -1,0 +1,69 @@
+Welcome to "Open ource Tools!
+In this video, you will learn about tools that you will frequently encounter when you
+work with an open source project.
+There are a number of tools that you will use to build an open source project.
+They fall into the following high-level categories: Version control;
+Bug trackers and task lists; Communication channels;
+Package management; Testing and debugging tools.
+We'll look at some examples of these categories in the following slides.
+In open source software development, participants might be spread across different geographic
+regions, so they require a tool to handle concurrent and frequent updates to the source
+code.
+A "version control system" is required.
+A version control system helps you keep track of changes made to the source code.
+It enables you to easily revert changes and go back to any previous version of a file.
+There is also an option to view the changes made to the source code by any project participant.
+A version control system is also known as "source code management" or a "revision control
+system."
+It helps you streamline the development process by tracking every change made to the source
+code.
+Git is one of the most popular open source version control tools.
+It provides strong support for non-linear development and is capable of efficiently
+handling everything from small to very large projects with speed and efficiency.
+Other options include Apache Subversion, Mercurial, and CVS.
+Let’s look at an example of tracking changes.
+We'll use PyDAX to demonstrate the feature.
+PyDAX is an open source project that enables data consumers and distributors to easily
+use and share datasets and establishes a standard for exchanging data assets.
+If you have a file that you have updated locally but not yet added to the source code repository,
+Git provides you with information about the file status.
+Here, 'requirement-dev.txt' is the file developed locally but which has not been added to the
+source code repository.
+It's highlighted in red.
+The next example shows how changes made to the source code can be tracked.
+As you can see, Git provides information about the person who committed the change, along
+with date, time, and description of the change.
+Open source projects require a bug tracking system to report, document, and keep track
+of the status of various errors and failures in the development of the project.
+Examples of bug trackers include:
+Jira Software, which quickly captures, assigns, and prioritize bugs.
+It helps track all aspects of the software development cycle and provides a notification
+as an issue transitions from "backlog" to "done."
+GitHub Issues, which enables you to collect user feedback, report software bugs, notify
+participants about updates to an issue, and organize tasks.
+It also provides an option to see all issues across different repositories and projects
+in one place.
+This is an example of the GitHub issue tracker.
+You can label issues to easily categorize and filter, assign an owner, view the timeline,
+and track updates by describing progress in the comments.
+This is an example of how you can see all the issues across different repositories and
+projects in one place.
+This is ZenHub, an agile project management tool that integrates natively within GitHub’s
+user interface.
+Issues can be placed in a pipeline such as "Backlog" or "In-progress" and can then be
+moved across the board as work progresses, until finally it reaches the "Completed" stage.
+Developers and other participants in an open source project are not necessarily working
+on the project in the same location.
+They might be spread out around the globe.
+Participants require some means of communication to effectively work in a collaborative environment.
+Email and weekly community calls are common forms of communication.
+To communicate in real time, many projects use instant messaging, such as Internet Relay
+Chat, Slack, Gitter, Discourse, and others.
+Web-forums are also becoming a common method for users to connect to the community.
+These are just some of the tools that you will encounter when working with an open source
+project.
+To learn more about other popular tools, visit opensource.com.
+In following videos, you'll see these tools in action.
+In this video, you learned about: Five categories of open source tools;
+Version control, including an example; Popular tools for tracking bugs;
+Options for community communication; Resources to learn more about the tools.
